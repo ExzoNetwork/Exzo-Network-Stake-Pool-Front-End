@@ -1,0 +1,1 @@
+import{ab as e,ac as t,ad as s,am as c,af as a}from"./vendor.1fa57ab2.js";import{_ as r}from"./index.5c15ef60.js";const o={},n=a("div",{class:"container q-pb-xl"},[a("div",{class:"page-title"}," TERMS OF USE ")],-1);function _(i,l){return e(),t(c,null,{default:s(()=>[n]),_:1})}var m=r(o,[["render",_]]);export{m as default};

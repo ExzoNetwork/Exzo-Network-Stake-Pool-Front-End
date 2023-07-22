@@ -1,0 +1,1 @@
+import{_ as e}from"./ErrorContainer.d5827195.js";import{_ as r}from"./index.5c15ef60.js";import{ab as n,ac as _}from"./vendor.1fa57ab2.js";const c={};function t(a,s){const o=e;return n(),_(o,{code:404,message:"Page not found"})}var i=r(c,[["render",t]]);export{i as default};
